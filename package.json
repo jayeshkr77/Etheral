@@ -1,0 +1,19 @@
+{
+  "name": "webscrapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jayesh",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "jssoup": "0.0.10",
+    "puppeteer": "^1.11.0",
+    "puppeteer-core": "^1.11.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
